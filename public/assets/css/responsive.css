@@ -1,0 +1,1359 @@
+@media (max-width: 1199px){
+ 
+    .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .nav-link {
+      padding: 20px 10px;
+  }
+  .header .mainmenu-area .navbar .mybtn1 {
+    margin-left: 15px;
+    padding: 10px 29px;
+  }
+  .header .mainmenu-area .navbar::after {
+    border-bottom: 66px solid #070b28;
+  }
+  .header .mainmenu-area .navbar::before,
+  .header .mainmenu-area .navbar::after
+  {
+    display: none;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area .left .icon {
+    top: 30px;
+    margin-right: 0px;
+    display: inline-block;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area{
+    display: flow-root;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area .right {
+    margin-top: 30px;
+    display: block;
+    flex: unset;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area {
+    margin-bottom: 21px;
+    padding-bottom: 21px;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .bottom-area .pp {
+    text-align: unset;
+    margin-left: 0px;
+    top: 0px;
+    margin-top: 0px;
+    display: block;
+    position: unset;
+    width: 100%;
+    float: unset;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities {
+    padding: 0px 30px 25px;
+  }
+  .play-games .all-games .nav li a {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+  }
+  .play-games .all-games .nav li a .icon img {
+    max-width: 40px;
+    max-height: 40px;
+    min-width: 40px;
+    min-height: 40px
+  }
+  .play-games .all-games .nav li a .icon {
+    margin-top: 16px;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .bottom-area .players-count{
+    display: block;
+  }
+  .breadcrumb-area.bc-lottery {
+    padding: 204px 0px 150px;
+  }
+  .breadcrumb-area.bc-tournaments .bc-img {
+    right: 0px;
+  }
+  .breadcrumb-area.bc-tournaments {
+    padding: 210px 0px 100px;
+  }
+  .flip-clock-wrapper ul {
+    width: 40px;
+    height: 60px;
+  }
+  .flip-clock-wrapper ul li a div.up:after {
+    top: 29px;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  .flip-clock-wrapper ul li a div div.inn {
+    font-size: 40px;
+    line-height: 62px;
+  }
+  .flip-clock-dot.top {
+    top: 15px;
+  }
+  .flip-clock-divider {
+    height: 84px;
+  }
+  
+  .flip-clock-divider .flip-clock-label {
+    right: -74px;
+  }
+  .breadcrumb-area.about {
+    padding: 204px 0px 94px;
+  }
+  .team .team-members .team-member-inner .single-team .social-area {
+    padding: 30px 20px 30px;
+  }
+  .breadcrumb-area.bc-affiliate .bc-img {
+    bottom: auto;
+    width: 65%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .breadcrumb-area.bc-affiliate {
+    padding: 203px 0px 174px;
+  }
+  .ref-commission .ab-img {
+    left: -228px;
+  }
+  .breadcrumb-area.bc-awards {
+    padding: 203px 0px 94px;
+  }
+  .breadcrumb-area.bc-awards .bc-img {
+    width: 60%;
+  }
+  .breadcrumb-area.bonus {
+    padding: 203px 0px 96px;
+  }
+  .breadcrumb-area.cart {
+    padding: 203px 0px 94px;
+  }
+  .breadcrumb-area.bc-faq {
+    padding: 203px 0px 95px;
+  }
+  .breadcrumb-area.h-i-w {
+    padding: 203px 0px 93px;
+  }
+  .breadcrumb-area.h-i-w .bc-img {
+    width: 60%;
+  }
+  .breadcrumb-area.bc-terms {
+    padding: 203px 0px 150px;
+  }
+  .breadcrumb-area.bc-terms .bc-img {
+    width: 55%;
+  }
+  .breadcrumb-area.bc-contact {
+    padding: 203px 0px 94px;
+  }
+  .contact .left-img {
+    top: 390px;
+    left: 6px;
+    max-width: 480px;
+  }
+  .index2 .hero-area {
+    padding: 358px 0px 424px;
+  }
+  .video-play-btn2 span:before{
+    display: none;
+  }
+  .index2 .features {
+    padding: 277px 0px 90px;
+  }
+  .contact .section-heading {
+    margin-bottom: 80px;
+  }
+  
+  
+  
+  
+  
+  
+  }
+  
+  @media  (max-width: 991px) {
+   
+    .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .nav-link .mr-hover-effect{
+      display: none;
+    }
+    .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .nav-link {
+      padding: 8px 10px;
+    }
+    .header .mainmenu-area .navbar .navbar-brand {
+      padding-left: 0px;
+    }
+    .header .top-header .content .left-content .left-list li p,
+    .header .top-header .content .right-content .right-list li .sign-in,
+    .header .top-header .content .right-content .right-list li i
+    {
+      font-size: 14px;
+    }
+    .header .mainmenu-area .navbar {
+      padding: 8px 0px;
+  }
+    .hero-area {
+      padding: 189px 0px 730px;
+    }
+    .hero-area .hero-img {
+      top: 40px;
+    }
+    .hero-area .hero-img .shape.man{
+      -webkit-animation: unset;
+      -moz-animation: unset;
+      animation: unset;
+    }
+  
+    .features .single-feature {
+      margin-bottom: 30px;
+      display: block;
+    }
+    .features {
+      padding-bottom: 80px;
+  }
+  .section-heading .title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .section-heading .subtitle {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .section-heading .text,
+  .how-it-work .single-work p,
+  .funfact .single-fun p
+  {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .activities .table tr th ,
+  .activities .table tr td
+  {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .funfact .single-fun .count-area {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .funfact .single-fun {
+    margin-bottom: 22px;
+  }
+  .activities {
+    padding: 110px 0px 88px;
+  }
+  .get-start {
+    padding: 111px 0px 120px;
+  }
+  .get-start .right-image {
+    text-align: center;
+    margin-top: 60px;
+  }
+  .single-winer .bottom-area .left {
+    font-size: 24px;
+  }
+  .single-winer .top-area .left .date {
+    margin-bottom: 8px;
+  }
+  .single-winer{
+    margin-bottom: 30px;
+  }
+  .single-winer {
+    padding: 30px 30px 23px;
+  }
+  .footer .subscribe-box .button-area .mybtn1{
+    margin-top: 40px;
+  }
+  .footer .footer-widget .title {
+    text-transform: uppercase;
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 8px;
+  }
+  .footer-widget.info-link-widget {
+    margin-top: 22px;
+  }
+  .footer .copy-bg .left-area {
+    text-align: center;
+  }
+  .footer .copy-bg .copright-area-links {
+    text-align: center;
+  }
+  .footer .subscribe-box .heading-area .sub-title{
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .header .top-header .content .left-content .left-list li .language-selector .language {
+    font-size: 14px;
+  }
+  .header .top-header .content .left-content .left-list li::before,
+  .header .top-header .content .right-content .right-list li::before
+  {
+    font-size: 14px;
+  }
+  .footer .subscribe-box {
+    margin-bottom: 90px;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities {
+    margin-bottom: 30px;
+  }
+  .play-games .all-games {
+    padding: 89px 0px 120px;
+  }
+  .play-games .all-games .nav li a {
+    margin: 5px;
+  }
+  .play-games .all-games {
+    padding: 83px 0px 120px;
+  }
+  .breadcrumb-area .title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .breadcrumb-area.play {
+    padding: 188px 0px 218px;
+  }
+  .breadcrumb-area .bc-img {
+    position: absolute!important;
+    right: 0px!important;
+    max-width: 50%!important;
+    top: 65%!important;
+    bottom: auto!important;
+    transform: translateY(-50%)!important;
+  }
+  .breadcrumb-area.bc-lottery {
+    padding: 187px 0px 152px;
+  }
+  .lottery-area .lottery-staticstics .single-staticstics{
+    margin-bottom: 30px;
+  }
+  .lottery-area .daily-lottery {
+    padding: 83px 0px 120px;
+  }
+  .lottery-area .daily-lottery .draw-time .draw-counter span {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .activities .tab-menu-area .nav-lend .nav-item .nav-link {
+    padding: 0px 30px;
+  }
+  .how-it-work .bg-shape{
+    display: none;
+  }
+  .how-it-work .section-heading {
+    margin-bottom: 52px;
+  }
+  .how-it-work .single-work {
+    text-align: center;
+    margin-bottom: 36px;
+  }
+  .question-area {
+    padding: 49px 0px 120px;
+  }
+  .question-area .section-heading {
+    margin-top: 51px;
+  }
+  .breadcrumb-area.bc-tournaments {
+    padding: 188px 0px 94px;
+  }
+  .tournament-time-box {
+    margin-bottom: 30px;
+  }
+  .tournaments .info-table {
+    margin-top: 30px;
+  }
+  .breadcrumb-area.about {
+    padding: 189px 0px 94px;
+  }
+  
+  .about-page-section {
+    padding: 120px 0px 120px;
+  }
+  .features .single-feature.landscape .content .title {
+    margin-top: 37px;
+  }
+  .features .single-feature.landscape {
+    text-align: center;
+  }
+  .features .single-feature.landscape .icon{
+    display: block;
+    margin: 0 auto;
+  }
+  .single-feature.landscape .content{
+    display: inline-block;
+    text-align: center;
+  }
+  .single-feature.landscape {
+    padding: 45px 30px 22px;
+  }
+  .team .team-members .team-member-inner .single-team {
+    border-radius: 20px;
+    margin-bottom: 30px;
+  }
+  .team .mybtn1 {
+    display: inline-block;
+    margin-top: 30px;
+  }
+  .community-blog .single-box{
+    margin-bottom: 30px;
+  }
+  .community-blog {
+    padding: 120px 0px 90px;
+  }
+  .breadcrumb-area.about {
+    padding: 229px 0px 94px;
+  }
+  .community-blog .single-box .content .text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .community-blog .single-box .content .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  
+  .breadcrumb-area.bc-affiliate {
+    padding: 187px 0px 174px;
+  }
+  .single-process{
+   margin-bottom: 30px;
+  }
+  .affiliate-program .single-program .content .title {
+    margin-top: 37px;
+  }
+  .affiliate-program .single-program {
+    text-align: center;
+  }
+  .affiliate-program .single-program .icon{
+    display: block;
+    margin: 0 auto;
+  }
+  .affiliate-program .single-program .content{
+    display: block;
+    text-align: center;
+  }
+  .affiliate-program .single-program {
+    padding: 45px 30px 22px;
+    display: block;
+  }
+  .ref-commission .ab-img{
+    display: none;
+  }
+  .single-process .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .single-process .text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .breadcrumb-area.bc-awards .bc-img{
+    bottom: 0px !important;
+    top: auto!important;
+    transform: unset!important;
+  }
+  .breadcrumb-area.bonus {
+    padding: 187px 0px 96px;
+  }
+  .single-deposit-bonus{
+    margin-bottom: 30px;
+  }
+  .deposit-bonuses {
+    padding: 112px 0px 90px;
+  }
+  .single-deposit-bonus .content .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .breadcrumb-area.cart {
+    padding: 188px 0px 94px;
+  }
+  .cart-area .message-one p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .cart-area .message-two .left p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .payment-method .text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .payment-method .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .breadcrumb-area.bc-faq {
+    padding: 188px 0px 95px;
+  }
+  .faq-wrapper .tab-content {
+    padding: 0 0px;
+  }
+  .breadcrumb-area.h-i-w {
+    padding: 187px 0px 93px;
+  }
+  .single-h-play{
+    margin-bottom: 30px;
+  }
+  .how-play {
+    padding: 112px 0px 563px;
+  }
+  .breadcrumb-area.bc-terms {
+    padding: 187px 0px 150px;
+  }
+  .help-section .help-box .help-box-inner .title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .top-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .writer-profile .writer-content .w-name {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .breadcrumb-area.bc-contact {
+    padding: 187px 0px 94px;
+  }
+  .contact .left-img{
+    display: none;
+  }
+  .contact .contact-form-wrapper{
+    padding-right: 0px;
+  }
+  .index2 .header .mainmenu-area {
+    background: #252f5a;
+  }
+  .index2 .hero-area {
+    padding: 238px 0px 341px;
+  }
+  .index2 .hero-area {
+    padding: 238px 0px 314px;
+  }
+  .video-play-btn2:after {
+    width: 115px;
+    height: 115px;
+  }
+  .video-play-btn2:before {
+    width: 130px;
+    height: 130px;
+  }
+  .video-play-btn2 span {
+    width: 145px;
+    height: 145px;
+  }
+  .video-play-btn2 {
+    margin: 82px 0px 0px;
+  }
+  .about-section .about-box .about-box-inner .section-heading {
+    padding-top: 186px;
+    text-align: center;
+  }
+  .recent-winners .mybtn2 {
+    margin-top: 30px;
+  }
+  .our-vision .single-vision {
+    margin-bottom: 55px;
+  }
+  .our-vision {
+    padding: 112px 0px 60px;
+  }
+  .header .mainmenu-area .navbar #main_menu .navbar-nav .nav-item .dropdown-menu {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  div#main_menu .navbar-nav{
+    height: 210px;
+    overflow-y: auto;
+  }
+  .marketing-tools .section-heading {
+    margin-bottom: 51px;
+  }
+  .marketing-tools .single-tools {
+    margin-bottom: 36px;
+  }
+  .marketing-tools {
+    padding: 112px 0px 80px;
+  }
+  .marketing-tools .single-tools .content .text {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .testimonial .single-testimonial .review-text p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .how-it-work {
+    padding: 97px 0px 484px;
+  }
+  
+  
+  
+  
+  
+  
+  }
+  
+  @media  (max-width: 767px) {
+    .hero-area .left-content .content .title {
+      font-size: 50px;
+      line-height: 60px;
+  }
+  .hero-area .left-content .content .subtitle {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .hero-area .left-content .content .text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .hero-img2{
+    margin-top: 60px;
+  }
+  .hero-area {
+    padding: 189px 0px 265px;
+  }
+  .header .top-header .content{
+    display: flow-root;
+  }
+  .header .top-header .content .left-content {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .header .top-header .content .right-content{
+    text-align: center;
+  }
+  .activities .tab-menu-area .nav-lend .nav-item .nav-link {
+    padding: 0px 30px;
+    font-size: 16px;
+  }
+  .footer .subscribe-box {
+    padding: 50px 30px 55px;
+  }
+  .hero-area .left-content {
+    text-align: center;
+  }
+  .responsive-table {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  .activities .tab-menu-area .nav-lend .nav-item .nav-link {
+    line-height: 40px;
+    margin: 3px;
+  }
+  .activities .tab-menu-area .nav-lend {
+    padding: 14px 15px;
+  }
+  .funfact .single-fun .count-area {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .breadcrumb-area.play {
+    padding: 230px 0px 218px;
+  }
+  .breadcrumb-area.bc-lottery {
+    padding: 230px 0px 152px;
+  }
+  .breadcrumb-area.bc-tournaments {
+    padding: 230px 0px 94px;
+  }
+  .tournament-time-box .top-area .status {
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .tournament-time-box .top-area .title {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .tournaments .info-table .main-box .inner-table-content .header-area ul .nav-item .nav-link {
+    padding: 0px 30px;
+    margin: 0px 3px;
+  }
+  .tournaments .info-table .main-box .inner-table-content .table tr td {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .breadcrumb-area.bc-affiliate {
+    padding: 229px 0px 174px;
+  }
+  .breadcrumb-area.bc-awards {
+    padding: 228px 0px 94px;
+  }
+  .breadcrumb-area.bonus {
+    padding: 229px 0px 96px;
+  }
+  .breadcrumb-area.cart {
+    padding: 230px 0px 94px;
+  }
+  .cart-area .message-one {
+    padding: 22px 30px 28px;
+  }
+  .cart-area .message-two{
+    display: flow-root;
+  }
+  .cart-area .message-two .left p {
+    margin-bottom: 30px;
+  }
+  .cart-area .cart-table-area .table tr td .qty {
+    width: 120px;
+  }
+  .breadcrumb-area.bc-faq {
+    padding: 229px 0px 95px;
+  }
+  .breadcrumb-area.h-i-w {
+    padding: 230px 0px 93px;
+  }
+  .breadcrumb-area.bc-terms {
+    padding: 229px 0px 150px;
+  }
+  
+  .serch-area .serch-box .list {
+    display: block;
+  }
+  .serch-area .serch-box .list li.button{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 0px;
+  }
+  .serch-area .serch-box {
+    padding: 20px 50px 40px;
+    border-radius: 20px;;
+  }
+  .help-section .help-box .help-box-inner .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .help-section .help-box .help-box-inner2-hearer .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .help-section .help-box .help-box-inner2 .single-artical .content .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .help-section .help-box {
+    padding: 29px 30px 40px!important;
+  }
+  
+  .help-section.writter-artical-details .help-box {
+    padding: 29px 30px 40px!important;
+  }
+  .breadcrumb-area.bc-contact {
+    padding: 230px 0px 94px;
+  }
+  .index2 .hero-area {
+    padding: 283px 0px 314px;
+  }
+  .get-start .left-area .section-heading {
+    text-align: center;
+  }
+  .activities .shape.shape1,
+  .activities .shape.shape2,
+  .activities .shape.shape3
+  {
+    display: none;
+  }
+  
+  
+  
+  }
+  
+  
+  @media  (max-width: 575px) {
+    .hero-area {
+      padding: 232px 0px 265px;
+    }
+    .hero-area .left-content .content .subtitle {
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .hero-area .left-content .content .title {
+      font-size: 40px;
+      line-height: 50px;
+    }
+    .section-heading .title {
+      font-size: 30px;
+      line-height: 40px;
+    }
+    .features .single-feature .content .title {
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .tournaments .info-table .main-box .main-header-area .nav li a
+    {
+      
+      line-height: 30px;
+      font-size: 20px;
+      margin: 0px 1px;
+  }
+  
+  .tournaments .info-table .main-box .main-header-area .nav li::before{
+    height: 18px;
+  }
+  .tournaments .info-table .main-box .inner-table-content .header-area ul .nav-item .nav-link {
+    margin: 3px 3px;
+  }
+  .tournaments .info-table .main-box .inner-table-content .header-area ul {
+    border-radius: 10px;
+    padding: 14px 15px;
+  }
+  .single-process .num {
+    font-size: 140px;
+  }
+  .footer .subscribe-box .heading-area .sub-title {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .footer .subscribe-box .heading-area .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .four-zero-four .content .inner-content .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .breadcrumb-area .bc-img {
+    display: none;
+  }
+  
+  .breadcrumb-area {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities {
+    padding: 0px 30px 27px;
+  }
+  .play-games .all-games .nav {
+    margin-bottom: 55px;
+  }
+  .flip-clock-divider .flip-clock-label {
+    font-size: 16px;
+  }
+  .flip-clock-divider .flip-clock-label {
+    bottom: -20px;
+  }
+  .flip-clock-divider .flip-clock-label {
+    right: -72px;
+  }
+  .flip-clock-divider.hours .flip-clock-label {
+    right: -80px;
+  }
+  .flip-clock-divider.minutes .flip-clock-label {
+    right: -87px;
+  }
+  .tournament-time-box .timer-area {
+    padding: 50px 30px 55px;
+  }
+  .testimonial .single-testimonial .people .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .marketing-tools .single-tools .content .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .how-play {
+    padding: 112px 0px 571px;
+  }
+  .features.about-page {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .sorteo-accordion .card-header .btn-link.collapsed::before,
+  .sorteo-accordion .card-header .btn-link::before
+  {
+    display: none;
+  }
+  .sorteo-accordion .card-body {
+      margin-top: 10px;
+      padding: 16px 30px 8px;
+  }
+  .sorteo-accordion .card-body p{
+    font-size: 14px;
+  }
+  .sorteo-accordion .card-header .btn-link {
+    display: block;
+    position: relative;
+  }
+  .sorteo-accordion .card-header .btn-link i{
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .sorteo-accordion .card-header .btn-link {
+    padding: 17px 10px 17px 70px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .logo-area::after{
+    display: none;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .logo-area {
+    padding-top: 30px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .header-area {
+    padding: 16px 30px 10px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .header-area .sub-title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .form-footer p{
+    font-size: 16px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .form-area .form-group .box{
+    display: flow-root;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .form-area {
+    padding: 0px 20px 10px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .header-area {
+    padding: 16px 20px 10px;
+  }
+  .login-modal .modal-dialog .modal-content .modal-body .form-footer {
+    padding: 0px 20px 6px;
+  }
+  .section-heading .subtitle {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .single-winer .top-area .left .name,
+  .single-winer .bottom-area .left,
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area .right .title,
+  .tournaments .info-table .main-box .info-content .info-box .title,
+  .tournament-time-box .top-area .title,
+  .tournament-time-box .timer-area .title,
+  .team .team-members .team-member-inner .single-team .image .content .name,
+  .single-process .title,
+  .affiliate-program .single-program .content .title,
+  .marketing-tools .single-tools .content .title,
+  .testimonial .single-testimonial .people .title,
+  .single-awards .content .title,
+  .community-blog .single-box .content .title,
+  .single-bonus .content .title,
+  .single-deposit-bonus .content .title,
+  .single-h-play .title,
+  .help-section .help-box .help-box-inner2-hearer .title,
+  .help-section .help-box .help-box-inner2 .single-artical .content .title,
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .writer-profile .writer-content .w-name,
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .inner-content .title,
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .footer-content .heading,
+  .contact .contact-form-wrapper .contact-box .title,
+  .how-it-work .single-work .title,
+  .lottery-area .lottery-staticstics .single-staticstics .right .count span,
+  .lottery-area .daily-lottery .draw-time .subtitle
+   {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .inner-content p{
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .help-section .help-box .help-box-inner3-hearer .title ,
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .top-title 
+  {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .breadcrumb-area .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .lottery-video .video-box {
+    height: 400px;
+  }
+  .cart-area .cart-table-area .table {
+    width: 900px;
+  }
+  .team .team-members .team-member-inner .single-team .image .content .designation {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .activities .table {
+    width: 800px;
+  }
+  .index2 .hero-area {
+    padding: 232px 0px 264px;
+  }
+  .footer .footer-widget .title {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .top-area {
+    text-align: center;
+  }
+  .play-games .gaming-activities .gaming-activities-inner .single-activities .bottom-area {
+    text-align: center;
+  }
+  .lottery-area .lottery-staticstics .single-staticstics {
+    padding: 30px 30px 30px;
+    border-radius: 10px;
+    background-color: rgba(29, 40, 80, 0.6);
+  }
+  .question-area .section-heading .title {
+    margin-bottom: 18px;
+  }
+  .tournaments .info-table .main-box .inner-table-content .table {
+    width: 670px;
+  }
+  .about-page-section .about-video .play-video {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+  }
+  .about-page-section .section-heading {
+    margin-top: 50px;
+  }
+  .help-section .help-box .help-box-inner .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .single-game img,
+  .single-bonus .content img
+  {
+    animation: unset;
+  }
+  
+  
+  
+  
+  }
+  
+  
+  
+  @media  (max-width: 500px) {
+    .flip-clock-wrapper ul {
+      width: 28px;
+      height: 33px;
+    }
+    .flip-clock-wrapper ul li a div.up:after {
+      top: 29px;
+      background-color: rgba(255, 255, 255, 0.4);
+    }
+    .flip-clock-wrapper ul li a div div.inn {
+      font-size: 20px;
+      line-height: 35px;
+    }
+    .flip-clock-dot.top {
+      top: 10px;
+    }
+    .flip-clock-divider {
+      height: 57px;
+  }
+    
+    .flip-clock-divider .flip-clock-label {
+      right: -74px;
+    }
+    .flip-clock-divider {
+      width: 10px;
+  }
+  .flip-clock-dot {
+    width: 5px;
+    height: 5px;
+    left: 2px;
+  }
+    .flip-clock-wrapper ul {
+      margin: 2px;
+  }
+  .flip-clock-divider .flip-clock-label {
+    bottom: -18px;
+    right: -46px;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .flip-clock-divider.hours .flip-clock-label {
+    right: -51px;
+  }
+  .flip-clock-divider.minutes .flip-clock-label {
+    right: -59px;
+  }
+  .tournament-time-box .timer-area {
+    padding: 50px 30px 50px;
+  }
+  .tournament-time-box .top-area .title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .tournament-time-box .top-area .sub-title {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .tournament-time-box .top-area .status {
+    font-size: 12px;
+    height: 22px;
+    line-height: 22px;
+    left: -70px;
+    top: 14px;
+  }
+  
+  
+  
+  
+  
+  
+    
+  }
+  
+  
+  @media  (max-width: 469px) {
+  
+  }
+  
+  
+  @media  (max-width: 414px) {
+    
+    .header .top-header .content .left-content .left-list li {
+      margin-right: 15px;
+  }
+  .header .top-header .content .left-content .left-list li::before {
+    right: -14px;
+  }
+  .activities .tab-menu-area .nav-lend {
+    border-radius: 10px;
+  }
+  .footer .subscribe-box .heading-area .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .single-game img {
+    max-width: 150px;
+  }
+  .single-game {
+    height: 280px;
+    line-height: 280px;
+  }
+  .lottery-area .daily-lottery .draw-time .draw-counter,
+  .lottery-area .daily-lottery .draw-time .draw-counter span 
+  {
+    font-size: 24px!important;
+    line-height: 34px!important;
+  }
+  
+  .help-section .help-box .help-box-inner2 .single-artical .writer-profile{
+    display: flow-root;
+    text-align: center;
+  }
+  .help-section .help-box .help-box-inner2 .single-artical .writer-profile img{
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+  .help-section .help-box .help-box-inner2 .single-artical {
+    text-align: center;
+  }
+  .serch-area .serch-box {
+    padding: 20px 30px 40px;
+  }
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .writer-profile{
+    display: flow-root;
+  }
+  .help-section.writter-artical-details .help-box .help-box-inner2 .single-artical .writer-profile img{
+    margin-right: 0px;
+  }
+  .features .single-feature .icon,
+  .affiliate-program .single-program .icon
+  {
+    width: 100px;
+    height: 100px;
+  }
+  .features .single-feature .icon img,
+  .affiliate-program .single-program .icon img
+  {
+    width: 40px;
+  }
+  .features .single-feature .icon.one,
+  .features .single-feature .icon.two,
+  .features .single-feature .icon.three,
+  .features .single-feature .icon.four,
+  .features .single-feature .icon.four,
+  .features .single-feature .icon.five,
+  .features .single-feature .icon.six,
+  .affiliate-program .single-program .icon.one,
+  .affiliate-program .single-program .icon.two,
+  .affiliate-program .single-program .icon.three,
+  .affiliate-program .single-program .icon.four,
+  .affiliate-program .single-program .icon.four,
+  .affiliate-program .single-program .icon.five,
+  .affiliate-program .single-program .icon.six
+   {
+    line-height: 80px;
+  }
+  .section-heading .title {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .footer .subscribe-box .heading-area .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .hero-area .left-content .content .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .hero-area .left-content .content .subtitle {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .hero-area .mybtn1 {
+    font-size: 14px;
+    padding: 9px 20px;
+  }
+  .breadcrumb-area .title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .sorteo-accordion .card-header .btn-link {
+    font-size: 16px;
+  }
+  .breadcrumb-area.play {
+    padding: 232px 0px 218px;
+  }
+  .breadcrumb-area.bc-tournaments {
+    padding: 232px 0px 94px;
+  }
+  .breadcrumb-area.bc-lottery {
+    padding: 232px 0px 152px;
+  }
+  .breadcrumb-area.about {
+    padding: 232px 0px 94px;
+  }
+  .breadcrumb-area.bc-affiliate {
+    padding: 232px 0px 174px;
+  }
+  .breadcrumb-area.bc-awards {
+    padding: 232px 0px 94px;
+  }
+  .breadcrumb-area.bonus {
+    padding: 232px 0px 96px;
+  }
+  .breadcrumb-area.cart {
+    padding: 232x 0px 94px;
+  }
+  .breadcrumb-area.bc-faq {
+    padding: 232px 0px 95px;
+  }
+  .breadcrumb-area.h-i-w {
+    padding: 232px 0px 93px;
+  }
+  .breadcrumb-area.bc-terms {
+    padding: 232px 0px 150px;
+  }
+  .breadcrumb-area.bc-contact {
+    padding: 232px 0px 94px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  
+  @media  (max-width: 390px) {
+   
+    .breadcrumb-area .bc-img{
+      display: none;
+    }
+  
+  
+  .tournament-time-box .timer-area {
+    padding: 50px 20px 50px;
+  }
+  .payment-method .method-slider {
+    padding: 0px 40px;
+  }
+  .community-blog .single-box{
+    display: flow-root;
+  }
+  .community-blog .single-box .img {
+    margin-right: 0px;
+    margin-bottom: 22px;
+  }
+  
+  .header .top-header .content .right-content .right-list > li .cart-icon.tm-dropdown .tm-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -webkit-transform: translateX(-30%);
+    -ms-transform: translateX(-30%);
+    transform: translateX(-30%);
+  }
+  .footer .subscribe-box .form-area input{
+    font-size: 14px;
+  }
+  .footer .subscribe-box .icon{
+    display: none;
+  }
+  .footer .subscribe-box .col-8{
+    max-width: 100%!important;
+    flex: 100%!important;
+  }
+  .footer .subscribe-box .heading-area .title {
+    margin-bottom: 32px;
+  }
+  .lottery-area .buy-tickets .buy-tickets-box .content {
+    padding: 20px 15px 20px;
+  }
+  
+  }
+  
+  
+  @media  (max-width: 343px) {
+    .index2 .hero-area {
+      padding: 258px 0px 264px;
+  }
+  .hero-area {
+    padding: 258px 0px 265px;
+  }
+  
+  .breadcrumb-area.play
+     {
+      padding: 257px 0px 218px;
+  }
+  
+  .breadcrumb-area.bc-lottery {
+    padding: 257px 0px 218px;
+  }
+  .breadcrumb-area.bc-lottery {
+    padding: 257px 0px 152px;
+  }
+  .breadcrumb-area.bc-tournaments {
+    padding: 257px 0px 94px;
+  }
+  .breadcrumb-area.about {
+    padding: 257px 0px 94px;
+  }
+  .breadcrumb-area.bc-affiliate {
+    padding: 257px 0px 174px;
+  }
+  .breadcrumb-area.bc-awards {
+    padding: 257px 0px 94px;
+  }
+  .breadcrumb-area.bonus {
+    padding: 257px 0px 96px;
+  }
+  .breadcrumb-area.bc-faq {
+    padding: 257px 0px 95px;
+  }
+  .breadcrumb-area.h-i-w {
+    padding: 257px 0px 93px;
+  }
+  .breadcrumb-area.bc-terms {
+    padding: 257px 0px 150px;
+  }
+  .breadcrumb-area.bc-contact {
+    padding: 257px 0px 94px;
+  }
+  
+  
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  

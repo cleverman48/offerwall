@@ -1,0 +1,192 @@
+.profile-page {
+
+}
+
+.profile-page {
+    background: #070b28;
+    padding: 112px 0px 118px;
+  }
+  .profile-page .section-heading {
+    margin-bottom: 58px;
+  }
+  .profile-page .info-table {
+    margin-top: 60px;
+  }
+  .profile-page .info-table .main-box {
+    padding: 0px 0px 24px;
+    /* border: 1px solid rgba(255, 255, 255, 0.1); */
+  }
+  .profile-page .info-table .main-box .main-header-area {
+    padding: 25px 30px 5px 30px;
+    display: block;
+    text-align: left;
+    background: #070b28;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .profile-page .info-table .main-box .main-header-area .nav {
+    display: inline-block;
+  }
+  .profile-page .info-table .main-box .main-header-area .nav li {
+    display: inline-block;
+    position: relative;
+  }
+  .profile-page .info-table .main-box .main-header-area .nav li::before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 4px;
+    background: #fff;
+    right: -2px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    z-index: 9;
+  }
+  .profile-page .info-table .main-box .main-header-area .nav li:last-child::before {
+    display: none;
+  }
+  .profile-page .info-table .main-box .main-header-area .nav li button {
+    margin-bottom: 0px;
+    font-size: 20px;
+    line-height: 38px;
+    font-weight: 700;
+    margin: 0px 10px;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .profile-page .info-table .main-box .main-header-area .nav li button.active {
+    color: #f9314b;
+  }
+  .profile-page .info-table .main-box .inner-table-content {
+    padding: 0px 30px;
+  }
+  .profile-page .info-table .main-box .inner-table-content .header-area {
+    display: block;
+    text-align: center;
+    padding: 40px 0px 40px;
+  }
+  .profile-page .info-table .main-box .inner-table-content .header-area ul {
+    display: inline-block;
+    border-radius: 50px;
+    padding: 20px 15px;
+    -webkit-box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.2);
+            box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  .profile-page .info-table .main-box .inner-table-content .header-area ul .nav-item {
+    display: inline-block;
+  }
+  .profile-page .info-table .main-box .inner-table-content .header-area ul .nav-item .nav-link {
+    line-height: 50px;
+    padding: 0px;
+    padding: 0px 50px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #FFF;
+    background: #252f5a;
+    margin: 0px 5px;
+  }
+  .profile-page .info-table .main-box .inner-table-content .header-area ul .nav-item .nav-link.active {
+    background: #f9314b;
+    color: #fff;
+  }
+  .profile-page .info-table .main-box .inner-table-content .tab-content {
+    margin-top: 0px;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table {
+    -webkit-box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.4);
+            box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.4);
+    position: relative;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr {
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td,
+  .profile-page .info-table .main-box .inner-table-content .table tr th {
+    border-top: 1px solid rgba(255, 255, 255, 0.09);
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr th {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-top: 0px;
+    border-bottom: 0px;
+    padding: 20px 15px;
+    background: #12193a;
+    color: #fff;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td {
+    vertical-align: middle;
+    padding: 20px 15px;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #a1aed4;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(1) img, .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(3) img, .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(6) img {
+    margin-right: 5px;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(1) {
+    color: #fff;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(3) {
+    color: #045cf0;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(5), .profile-page .info-table .main-box .inner-table-content .table tr td:nth-child(6) {
+    color: #f0ad4e;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr td:last-child {
+    color: #f0ad4e;
+  }
+  .profile-page .info-table .main-box .inner-table-content .table tr:hover {
+    background: #192246;
+  }
+  .profile-page .info-table .main-box .info-content {
+    padding-bottom: 15px;
+  }
+  .profile-page .info-table .main-box .info-content .info-box .title {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 15px;
+  }
+  .profile-page .info-table .main-box .info-content .info-box .text {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .profile-page .info-table .main-box .info-content .info-box.two {
+    margin-top: 53px;
+  }
+  .profile-page .info-table .main-box .info-content .info-box.three {
+    margin-top: 53px;
+  }
+  .profile-page .info-table .main-box .info-content .mybtn1 {
+    margin-top: 16px;
+  }
+
+  .profile-page .input-box {
+    display: block;
+    border: 1px solid rgb(39, 59, 113);
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.4);
+            box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.4);
+    position: relative;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    color: lightcyan;
+    background-color: rgba(0, 0, 0, 0);
+  }
